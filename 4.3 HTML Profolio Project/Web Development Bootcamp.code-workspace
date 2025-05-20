@@ -1,0 +1,11 @@
+{
+  "folders": [
+	{
+		"name": "Web Development Bootcamp",
+		"path": ".."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Web Development Bootcamp"
+  }
+}
